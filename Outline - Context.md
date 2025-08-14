@@ -1,0 +1,85 @@
+## Outline
+### Science of Learning
+- Title
+	- Learning with LLMs
+- Make It Stick
+	- Learning
+		- Encoding
+			- New information encoded into memory traces
+			- Short term
+			- Most are forgotten
+		- Consolidation
+			- Traces are reorganized and connected to past experiences/knowledge from long-term memory
+			- Strengthens and stabilizes traces
+		- Retrieval
+			- Fetch material from long-term memory
+			- Concurrently strengthens and reconsolidates traces by connecting them to new learning
+	- Effective Learning
+		- Anchor
+			- Recode/consolidate during move from short to long-term
+		- Link
+			- Associate new material with a wide range of cues to recall it more easily later
+		- Mental Models
+			- Develop mental models to capture a real understanding
+	- Effective Strategies
+		- Spaced Repetition
+			- Meaningful time gaps between retrieval sessions (Anki)
+			- Shorter gaps for slippery material, longer gaps for sticky material
+		- Interleaved Practice
+			- Alternate topics or deliberately take breaks between practice sessions
+			- More effective than focusing on the same problem or topic for an extended time
+		- Variation
+			- Vary the type and context of retrievals.
+			- Similar to interleaving
+			- Compare similarities and differences across scenarios, integrate related ideas/skills into meaningful schemas/mental models
+		- Effortful learning
+			- Learning and retrieval should be difficult. Struggling and failing to retrieve a new fact makes it more likely to stick long-term, hence, don't repeat the same tasks and study the same things over and over
+	- Techniques
+		- Generation
+			- Attempt to answer a question or solve a problem before being shown the answer or solution
+			- Before reading a chapter, jot down the main ideas you think you're going to learn from it and how they'll relate to your prior knowledge.
+		- Elaboration
+			- Find additional layers of meaning and cues
+			- Relate the material to something else you know
+			- Explain it to someone else in your own words
+			- Explain how it relates to your life outside of class
+		- Reflection
+			- Combination of retrieval practice and elaboration
+			- Think back to a recent experience or learning effort and ask yourself questions.
+				- What went well?
+				- What could have gone better?
+				- What other knowledge or experiences does it remind you of?
+				- What might you need to learn for better mastery?
+				- What strategies might you use next time to get better results?
+		- Calibration
+			- Align your judgments about what you know and don't with objective feedback to avoid being carried away by the illusions of mastery
+			- Self-quiz and write down the answers.
+			- Resist the urge to look at question and simply say, "Yep, I know that," without answering it.
+			- Focus studying effort on the areas that need more work based on the objective feedback of the quiz.
+		- Mnemonic Devices
+			- Mental file cabinets, using sounds, phrases, mental palaces, spatial references, or story telling
+- Live Learning Demo
+	- Review Prompt
+	- Audience Topic Demo
+- Dunning-Kruger Effect
+	- [[Dunning-Kruger Effect
+	- Valley of Despair
+		- Use these learning techniques to help us continue to learn, grow confidence, and progress up the "Slope of Enlightenment"
+- Deliberate Practice / Wise Effort
+	1. **Set a Narrow, Specific Goal**
+	       - Not “get better at X” but “improve how I transition between paragraphs” or “use more varied chord progressions.”  
+	2. **Isolate and Drill Sub-skills**
+	       - Break down the larger skill and attack the weakest link.
+	3. **Use Immediate Feedback**
+	    - From a coach, peer, software, or self-assessment.
+	4. **Stay at the Edge of Your Ability**
+	    - Practice should feel uncomfortable. That’s where growth happens.
+	5. **Repeat with Reflection**
+	    - Don’t just do it again — ask _what changed?_, _what improved?_, _what still needs work?_
+	6. **Track Progress**
+	    - Document sessions and improvements to stay motivated and accountable.
+	- Ask ChatGPT to build a deliberate practice plan to slowly increase challenge and focus on weaknesses
+	- Document your progress and feed it back into ChatGPT for feedback, or self-assess and explain weaknesses to get guidance for moving forward.
+- Study Mode
+	- New [ChatGPT Mode](https://openai.com/index/chatgpt-study-mode/)
+	- Created with a [system prompt](https://gist.github.com/simonw/33d5fb67d6b8e1b1e2f6921ab0ccb9fb), just like what we're doing.

@@ -14,9 +14,21 @@ This is what was pasted into the ChatGPT text box for our live learning session
 
 This is the coaching flow template we used during our demo to learn about the exciting audience-chosen topic of diseases in bats. It was uploaded as context during both the demo and the final exam.
 
+### transcript.md
+
+This is a transcript of one of my test runs through a live learning session about WWI. The demo prompt references it to help guide the LLM on how to model its behavior during our live learning session.
+
 ### FinalExamPrompt.md
 
 This is what was pasted into the ChatGPT text box for our final exam
+
+### Outline - Context.md
+
+This is an outline of the talk content to give ChatGPT more context about what to quiz us on during out final exam.
+
+### final-exam-transcript.md
+
+This is a transcript of a test run final example, again used to help guide ChatGPT during our live session in order to mimic a test run that seemed successful.
 
 ### Prompting Cheat Sheet.png
 
