@@ -1,0 +1,5 @@
+Given the attached coaching flow system prompt that I've used with ChatGPT to study various topics. Can you help me review and remember the various effective learning techniques and map the knowledge of those techniques to prompting strategies by building a quiz for me to take here at the end of my session studying learning techniques and the use of ChatGPT as a coach or teacher?
+
+Let's walk through the quiz interactively one question at a time, and please instruct me on how to format my answer to each question so you can grade it effectively. Please limit the quiz to 5 questions, and vary the type of questions amongst things like multiple choice, fill in the blank, and open ended questions where the student reflects or puts an answer in their own words.
+
+I've also attached and `Outline - Context.md` file with the bullet points of a talk about the learning techniques, as well as `final-exam-transcript.md`, which contains a transcript for a particularly successful final exam quiz. Use these to model your behavior as you generate and guide me through the quiz.
